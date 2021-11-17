@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+.toggle-sidebar {
+    border: none;
+    background-color: #3097af;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    
+}
